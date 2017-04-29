@@ -1,6 +1,6 @@
 extends Node
 
-var particle = load("res://Particle.tscn")
+var particle = load("res://scenes/particle.tscn")
 var positions = [Vector2(-40, -160), Vector2(50, 170)]
 
 func _ready():

@@ -1,6 +1,6 @@
 extends Node
 
-var side = load("res://EqSide.tscn")
+var side = load("res://scenes/eqside.tscn")
 var positions = [Vector2(-240, 0), Vector2(240, 0)]
 
 func _ready():

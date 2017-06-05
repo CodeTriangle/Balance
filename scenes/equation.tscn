@@ -7,18 +7,4 @@
 transform/pos = Vector2( 480, 270 )
 script/script = ExtResource( 1 )
 
-[node name="Barrier" type="Polygon2D" parent="."]
-
-polygon = Vector2Array( -2, -250, -2, 250, 2, 250, 2, -250 )
-uv = Vector2Array(  )
-color = Color( 1, 1, 1, 1 )
-vertex_colors = ColorArray(  )
-offset = Vector2( 0, 0 )
-texture/texture = null
-texture/offset = Vector2( 0, 0 )
-texture/scale = Vector2( 1, 1 )
-texture/rotation = 0.0
-invert/enable = false
-invert/border = 100.0
-
 
